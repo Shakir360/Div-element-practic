@@ -1,0 +1,221 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    font-size: 16px;
+    font-weight: 400px;
+    font-family: sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+img{
+    vertical-align: center;
+}
+
+ul ol{
+    list-style: none;
+}
+/* common css end */
+/* div layout design start */
+
+.one{
+     height: 500px;
+     width: 500px;
+     background: red;
+     margin: 0 auto;
+}
+ .a1{
+     height: 250px;
+     width: 500px;
+     background:rgb(221, 20, 20);   
+ }
+.a3{
+    height: 250px;
+    width: 250px;
+    background: rgb(221, 51, 21);
+    float: left;
+}
+.a7{
+    height: 50px;
+    width: 250px;
+    background: rgb(110, 11, 248); 
+}
+.a8{
+    height: 50px;
+    width: 250px;
+    background: rgb(26, 226, 15);
+}
+.a9{
+    height: 50px;
+    width: 250px;
+    background: rgb(8, 45, 194);
+}
+.a10{
+    height: 50px;
+    width: 250px;
+    background: rgb(216, 17, 160);
+}
+.a11{
+    height: 50px;
+    width: 250px;
+    background: rgb(224, 14, 63);
+}
+
+
+.a4{
+    height: 250px;
+    width: 250px;
+    background: rgb(23, 228, 19);
+    float: left;
+}
+
+.a12{
+    height: 250px;
+    width: 50px;
+    background: rgb(26, 225, 106);
+    float: left;
+}
+.a13{
+    height: 250px;
+    width: 50px;
+    background: rgb(185, 7, 158);
+    float: left;
+}
+.a14{
+    height: 250px;
+    width: 50px;
+    background: rgb(35, 127, 233);
+    float: left;
+}
+.a15{
+    height: 250px;
+    width: 50px;
+    background: rgb(26, 233, 181);
+    float: left;
+}
+.a16{
+    height: 250px;
+    width: 50px;
+    background: rgb(221, 51, 21);
+    float: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.a2{
+    height: 250px;
+    width: 500px;
+    background: blue;
+}
+.a5{
+    height: 250px;
+    width: 250px;
+    background: rgb(28, 226, 196);
+    float: left;
+}
+.a17{
+    height: 250px;
+    width: 50px;
+    background: rgb(41, 181, 97);
+    float: left;
+}
+.a18{
+    height: 250px;
+    width: 50px;
+    background: rgb(209, 17, 197);
+    float: left;
+}
+.a19{
+    height: 250px;
+    width: 50px;
+    background: rgb(151, 245, 19);
+    float: left;
+}
+.a20{
+    height: 250px;
+    width: 50px;
+    background: rgb(21, 49, 211);
+    float: left;
+}
+.a21{
+    height: 250px;
+    width: 50px;
+    background: rgb(10, 187, 181);
+    float: left;
+}
+
+
+
+
+
+
+
+
+
+.a6{
+    height: 250px;
+    width: 250px;
+    background-color: rgb(161, 28, 238);
+    float: left;
+}
+.a22{
+    height: 50px;
+    width: 250px;
+    background: rgb(17, 244, 96); 
+}
+.a23{
+    height: 50px;
+    width: 250px;
+    background: rgba(215, 9, 40, 0.841);
+}
+.a24{
+    height: 50px;
+    width: 250px;
+    background: rgb(240, 244, 31);
+}
+.a25{
+    height: 50px;
+    width: 250px;
+    background: rgb(22, 34, 195);
+}
+.a26{
+    height: 50px;
+    width: 250px;
+    background: rgb(204, 24, 120);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* div layout design end */
